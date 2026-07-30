@@ -14,9 +14,9 @@ pre: " <b> 1.7. </b> "
 ### Các công việc triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành |
 | --- | --- | --- | --- |
-| 2 | - Thực hiện End-to-End Testing cho các chức năng Đăng ký, Đăng nhập Face ID, Đăng bài Feed, Bookmark | 27/07/2026 | 28/07/2026 |
-| 4 | - Kiểm thử tải trang và độ trễ phản hồi của webcam scanner trong môi trường mạng thực tế | 29/07/2026 | 30/07/2026 |
-| 6 | - Kiểm thử xử lý sự cố (Error boundary, rate limit 429, session expiry 401) | 31/07/2026 | 02/08/2026 |
+| 2 | - Thực hiện End-to-End Testing cho các chức năng Đăng ký, Đăng nhập Face ID, Đăng bài Feed, Bookmark | 20/07/2026 | 21/07/2026 |
+| 4 | - Kiểm thử tải trang và độ trễ phản hồi của webcam scanner trong môi trường mạng thực tế | 22/07/2026 | 23/07/2026 |
+| 6 | - Kiểm thử xử lý sự cố (Error boundary, rate limit 429, session expiry 401) | 24/07/2026 | 26/07/2026 |
 
 ### Kết quả đạt được tuần 7:
 * Toàn bộ luồng nghiệp vụ ứng dụng trên AWS S3 + EC2 hoạt động ổn định và chính xác.

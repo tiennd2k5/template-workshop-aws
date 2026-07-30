@@ -1,28 +1,28 @@
 ---
-title: "Worklog Week 1"
-date: 2026-07-24
+title: "Week 1 Worklog"
+date: 2026-06-12
 weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
 ---
 
 ### Week 1 Objectives:
-* Onboard the AWS First Cloud AI Journey program.
-* Explore AWS cloud ecosystem, setup AWS Free Tier Account & AWS CLI.
-* Scaffolding the initial local application for **Fav Web Portal** (FastAPI Backend + React Frontend).
+* Onboard the AWS First Cloud AI Journey internship program.
+* Explore AWS cloud computing ecosystem and configure AWS Free Tier & AWS CLI.
+* Initialize local application baseline for Fav Web Portal (FastAPI Backend + React Frontend).
 
-### Tasks Executed:
-| Day | Task | Start Date | End Date |
+### Activities Breakdown:
+| Day | Task Description | Start Date | Completion Date |
 | --- | --- | --- | --- |
-| Mon | - Attend FCAJ onboarding session & review internship guidelines | 15/06/2026 | 15/06/2026 |
-| Tue | - Research AWS Compute, Storage, Database services <br> - Provision AWS Free Tier Account & IAM Admin credentials | 16/06/2026 | 16/06/2026 |
-| Wed | - Install AWS CLI v2 locally, configure Access Keys & Region `ap-southeast-2` | 17/06/2026 | 17/06/2026 |
-| Thu | - Scaffold **Fav Web Portal** repository <br> - Build core FastAPI backend modules (auth, users, posts, music, games) | 18/06/2026 | 19/06/2026 |
-| Fri | - Build React/Vite frontend shell <br> - Integrate local AI Face Recognition module (`facenet-pytorch`) | 20/06/2026 | 21/06/2026 |
+| Mon | - Attend FCAJ Onboarding session <br> - Review internship rules and roadmap | 08/06/2026 | 08/06/2026 |
+| Tue | - Learn AWS Compute, Storage, Database core services <br> - Initialize AWS Free Tier account & IAM Admin user | 09/06/2026 | 09/06/2026 |
+| Wed | - Install AWS CLI v2 locally, configure Access Keys & Region `ap-southeast-2` | 10/06/2026 | 10/06/2026 |
+| Thu | - Initialize **Fav Web Portal** project repository <br> - Build core FastAPI Backend (Auth, Users, Posts, Music, Games) | 11/06/2026 | 12/06/2026 |
+| Fri | - Build React/Vite Frontend prototype <br> - Integrate local AI Face Recognition module (`facenet-pytorch`) | 13/06/2026 | 14/06/2026 |
 
-### Week 1 Achievements:
-* AWS CLI and AWS Account successfully configured.
-* Fav Web Portal prototype fully running locally.
-* Face ID recognition webcam capture working in dev environment.
+### Week 1 Deliverables:
+* AWS Account & AWS CLI configured locally.
+* Prototype **Fav Web Portal** running locally.
+* Face Recognition camera scanner functional in local development.
 
 ![Fav Web Portal Interface](/images/dashboard.png)

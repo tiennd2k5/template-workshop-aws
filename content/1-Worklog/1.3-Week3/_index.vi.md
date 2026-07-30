@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 3"
-date: 2026-07-24
+date: 2026-06-26
 weight: 3
 chapter: false
 pre: " <b> 1.3. </b> "
@@ -15,11 +15,11 @@ pre: " <b> 1.3. </b> "
 ### Các công việc triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành |
 | --- | --- | --- | --- |
-| 2 | - Tạo AWS S3 Buckets cho media storage & frontend hosting <br> - Tích hợp `boto3` SDK vào `backend/services/s3_service.py` | 29/06/2026 | 30/06/2026 |
-| 3 | - Cập nhật logic lưu ảnh webcam log và ảnh đăng ký khuôn mặt trực tiếp lên S3 Bucket | 01/07/2026 | 01/07/2026 |
-| 4 | - Khởi tạo Ubuntu EC2 Instance, mở Security Group Port 80/8000/22 | 02/07/2026 | 02/07/2026 |
-| 5 | - SSH vào EC2, build và chạy `fav-web-backend` container với `-v` Volume mounts | 03/07/2026 | 04/07/2026 |
-| 6 | - Build `npm run build` với `VITE_API_URL` trỏ tới EC2 Public IP và upload đè lên S3 Static Web | 05/07/2026 | 05/07/2026 |
+| 2 | - Tạo AWS S3 Buckets cho media storage & frontend hosting <br> - Tích hợp `boto3` SDK vào `backend/services/s3_service.py` | 22/06/2026 | 23/06/2026 |
+| 3 | - Cập nhật logic lưu ảnh webcam log và ảnh đăng ký khuôn mặt trực tiếp lên S3 Bucket | 24/06/2026 | 24/06/2026 |
+| 4 | - Khởi tạo Ubuntu EC2 Instance, mở Security Group Port 80/8000/22 | 25/06/2026 | 25/06/2026 |
+| 5 | - SSH vào EC2, build và chạy `fav-web-backend` container với `-v` Volume mounts | 26/06/2026 | 27/06/2026 |
+| 6 | - Build `npm run build` với `VITE_API_URL` trỏ tới EC2 Public IP và upload đè lên S3 Static Web | 28/06/2026 | 28/06/2026 |
 
 ### Kết quả đạt được tuần 3:
 * Backend Docker chạy thành công trên AWS EC2 (`http://52.63.251.110`).

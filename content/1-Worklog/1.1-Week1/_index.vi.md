@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 1"
-date: 2026-07-24
+date: 2026-06-12
 weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
@@ -14,11 +14,11 @@ pre: " <b> 1.1. </b> "
 ### Các công việc triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành |
 | --- | --- | --- | --- |
-| 2 | - Tham gia buổi Onboarding chương trình FCAJ <br> - Đọc hiểu nội quy và lộ trình thực tập | 15/06/2026 | 15/06/2026 |
-| 3 | - Tìm hiểu nhóm dịch vụ AWS Compute, Storage, Database <br> - Khởi tạo tài khoản AWS Free Tier & cấu hình IAM Admin | 16/06/2026 | 16/06/2026 |
-| 4 | - Cài đặt AWS CLI v2 trên máy local, cấu hình Access Key & Region `ap-southeast-2` | 17/06/2026 | 17/06/2026 |
-| 5 | - Khởi tạo khung dự án **Fav Web Portal** <br> - Xây dựng Backend FastAPI cơ bản (xác thực, người dùng, bài viết, nhạc, game) | 18/06/2026 | 19/06/2026 |
-| 6 | - Xây dựng Frontend React/Vite cơ bản <br> - Tích hợp module AI nhận diện khuôn mặt local (`facenet-pytorch`) | 20/06/2026 | 21/06/2026 |
+| 2 | - Tham gia buổi Onboarding chương trình FCAJ <br> - Đọc hiểu nội quy và lộ trình thực tập | 08/06/2026 | 08/06/2026 |
+| 3 | - Tìm hiểu nhóm dịch vụ AWS Compute, Storage, Database <br> - Khởi tạo tài khoản AWS Free Tier & cấu hình IAM Admin | 09/06/2026 | 09/06/2026 |
+| 4 | - Cài đặt AWS CLI v2 trên máy local, cấu hình Access Key & Region `ap-southeast-2` | 10/06/2026 | 10/06/2026 |
+| 5 | - Khởi tạo khung dự án **Fav Web Portal** <br> - Xây dựng Backend FastAPI cơ bản (xác thực, người dùng, bài viết, nhạc, game) | 11/06/2026 | 12/06/2026 |
+| 6 | - Xây dựng Frontend React/Vite cơ bản <br> - Tích hợp module AI nhận diện khuôn mặt local (`facenet-pytorch`) | 13/06/2026 | 14/06/2026 |
 
 ### Kết quả đạt được tuần 1:
 * Đã sẵn sàng tài khoản AWS và cấu hình AWS CLI local thành công.

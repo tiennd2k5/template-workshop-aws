@@ -1,6 +1,6 @@
 ---
-title: "Worklog Week 5"
-date: 2026-07-24
+title: "Week 5 Worklog"
+date: 2026-07-10
 weight: 5
 chapter: false
 pre: " <b> 1.5. </b> "
@@ -8,18 +8,18 @@ pre: " <b> 1.5. </b> "
 
 ### Week 5 Objectives:
 * Integrate application logging with AWS CloudWatch Logs.
-* Configure metric filters & alarms monitoring EC2 CPU usage and system events.
+* Configure metric filters & alarms for EC2 instance and Backend services.
 
-### Tasks Executed:
-| Day | Task | Start Date | End Date |
+### Activities Breakdown:
+| Day | Task Description | Start Date | Completion Date |
 | --- | --- | --- | --- |
-| Mon | - Research AWS CloudWatch Logs SDK (`watchtower`) integration | 13/07/2026 | 13/07/2026 |
-| Tue | - Add `watchtower` package and update `backend/services/logging_service.py` | 14/07/2026 | 15/07/2026 |
-| Thu | - Configure log streaming for Face ID attempts, auth, and DB events to CloudWatch Log Group `/fav-web/backend` | 16/07/2026 | 17/07/2026 |
-| Sat | - Provision CloudWatch Alarms triggering alerts when EC2 CPU utilization exceeds 80% threshold | 18/07/2026 | 19/07/2026 |
+| Mon | - Research AWS CloudWatch Logs service & `watchtower` Python SDK | 06/07/2026 | 06/07/2026 |
+| Tue | - Add `watchtower` to `backend/requirements.txt` and update `backend/services/logging_service.py` | 07/07/2026 | 08/07/2026 |
+| Thu | - Configure log streaming for Face ID events, logins, and DB errors to CloudWatch Log Group `/fav-web/backend` | 09/07/2026 | 10/07/2026 |
+| Sat | - Provision CloudWatch Alarm triggering when EC2 CPU utilization exceeds 80% | 11/07/2026 | 12/07/2026 |
 
-### Week 5 Achievements:
-* Real-time application log streaming from EC2 to AWS CloudWatch Logs operational.
-* Automated CPU utilization alerts and system monitoring in place.
+### Week 5 Deliverables:
+* Automatic application log streaming from EC2 to AWS CloudWatch.
+* CPU utilization monitoring & alarm system operational.
 
 ![AWS CloudWatch Logging & Monitoring](/images/cloudwatch.png)

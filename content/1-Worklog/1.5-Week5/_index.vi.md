@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 5"
-date: 2026-07-24
+date: 2026-07-10
 weight: 5
 chapter: false
 pre: " <b> 1.5. </b> "
@@ -13,10 +13,10 @@ pre: " <b> 1.5. </b> "
 ### Các công việc triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành |
 | --- | --- | --- | --- |
-| 2 | - Tìm hiểu dịch vụ AWS CloudWatch Logs & SDK `watchtower` | 13/07/2026 | 13/07/2026 |
-| 3 | - Thêm `watchtower` vào `backend/requirements.txt` và cập nhật `backend/services/logging_service.py` | 14/07/2026 | 15/07/2026 |
-| 4 | - Cấu hình gửi log sự kiện nhận diện Face ID, đăng nhập, lỗi DB về CloudWatch Log Group `/fav-web/backend` | 16/07/2026 | 17/07/2026 |
-| 5 | - Khởi tạo CloudWatch Alarm cảnh báo khi mức sử dụng CPU của EC2 vượt ngưỡng 80% | 18/07/2026 | 19/07/2026 |
+| 2 | - Tìm hiểu dịch vụ AWS CloudWatch Logs & SDK `watchtower` | 06/07/2026 | 06/07/2026 |
+| 3 | - Thêm `watchtower` vào `backend/requirements.txt` và cập nhật `backend/services/logging_service.py` | 07/07/2026 | 08/07/2026 |
+| 4 | - Cấu hình gửi log sự kiện nhận diện Face ID, đăng nhập, lỗi DB về CloudWatch Log Group `/fav-web/backend` | 09/07/2026 | 10/07/2026 |
+| 5 | - Khởi tạo CloudWatch Alarm cảnh báo khi mức sử dụng CPU của EC2 vượt ngưỡng 80% | 11/07/2026 | 12/07/2026 |
 
 ### Kết quả đạt được tuần 5:
 * Đã tự động gửi log thực thi ứng dụng từ EC2 lên AWS CloudWatch Logs.

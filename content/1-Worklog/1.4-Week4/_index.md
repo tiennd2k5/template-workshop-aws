@@ -1,30 +1,30 @@
 ---
-title: "Worklog Week 4"
-date: 2026-07-24
+title: "Week 4 Worklog"
+date: 2026-07-03
 weight: 4
 chapter: false
 pre: " <b> 1.4. </b> "
 ---
 
 ### Week 4 Objectives:
-* Provision and connect AWS RDS PostgreSQL database (Free Tier).
-* Configure Security Group rules linking EC2 Backend to RDS PostgreSQL.
-* Update SQLAlchemy `DATABASE_URL` config to dynamically support both local SQLite and Cloud RDS.
-* Run initial database migrations and seed default admin user (`admin` / `123456`).
+* Provision and connect AWS RDS PostgreSQL Database (Free Tier).
+* Configure Security Group rules between EC2 Backend and RDS PostgreSQL.
+* Update SQLAlchemy `DATABASE_URL` supporting SQLite local and Cloud RDS PostgreSQL.
+* Execute database seed scripts for initial admin user and default categories.
 
-### Tasks Executed:
-| Day | Task | Start Date | End Date |
+### Activities Breakdown:
+| Day | Task Description | Start Date | Completion Date |
 | --- | --- | --- | --- |
-| Mon | - Launch AWS RDS PostgreSQL Database Instance via AWS Console | 06/07/2026 | 06/07/2026 |
-| Tue | - Configure RDS Security Group Inbound Rule allowing Port 5432 strictly from EC2 IP | 07/07/2026 | 07/07/2026 |
-| Wed | - Add `psycopg2-binary` driver to `backend/requirements.txt` | 08/07/2026 | 08/07/2026 |
-| Thu | - Refactor `backend/services/db_models.py` to parse `DATABASE_URL` dynamically | 09/07/2026 | 10/07/2026 |
-| Sat | - Test automatic schema creation and default admin seeding upon container startup | 11/07/2026 | 12/07/2026 |
+| Mon | - Provision AWS RDS PostgreSQL Instance via AWS Console | 29/06/2026 | 29/06/2026 |
+| Tue | - Configure Security Group Inbound Rule allowing EC2 access on Port 5432 | 30/06/2026 | 30/06/2026 |
+| Wed | - Add `psycopg2-binary` to `backend/requirements.txt` | 01/07/2026 | 01/07/2026 |
+| Thu | - Update `backend/services/db_models.py` to parse `DATABASE_URL` dynamically from `.env` | 02/07/2026 | 03/07/2026 |
+| Fri | - Test auto-migration and admin account seed (`123456`) on Cloud RDS | 04/07/2026 | 05/07/2026 |
 
-### Week 4 Achievements:
-* EC2 Backend successfully connected to AWS RDS PostgreSQL.
-* Production data (Users, Posts, Knowledge, Games, Music, Logs) securely persisted on RDS.
+### Week 4 Deliverables:
+* EC2 Backend connected to AWS RDS PostgreSQL.
+* Application data (Users, Posts, Knowledge, Games, Music, Logs) securely persisted on RDS.
 
-![Streaming Music Library Module](/images/music.png)
-![Gaming Hub Module](/images/games.png)
-![Multimedia Social Feed Module](/images/feed.png)
+![Online Music Streaming Module](/images/music.png)
+![Game Blog News Module](/images/games.png)
+![Multimedia Feed Module](/images/feed.png)

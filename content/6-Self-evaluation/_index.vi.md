@@ -8,7 +8,7 @@ pre: " <b> 6. </b> "
 
 # Tự đánh giá cá nhân (Self-Evaluation)
 
-Trong suốt thời gian thực tập tại **Công ty TNHH Amazon Web Services Viet Nam** (chương trình **First Cloud AI Journey - FCAJ**) từ ngày **15/06/2026** đến **15/08/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức điện toán đám mây AWS vào dự án thực tế **Fav Web Portal**.
+Trong suốt thời gian thực tập tại **Công ty TNHH Amazon Web Services Viet Nam** (chương trình **First Cloud AI Journey - FCAJ**) từ ngày **08/06/2026** đến **31/07/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức điện toán đám mây AWS vào dự án thực tế **Fav Web Portal**.
 
 Tôi đã trực tiếp thiết kế kiến trúc, đóng gói backend container với Docker, triển khai ứng dụng lên AWS EC2, S3, RDS, CloudWatch và trực tiếp giải quyết các sự cố kỹ thuật về bảo mật, CORS, CSP và xác thực cross-domain.
 

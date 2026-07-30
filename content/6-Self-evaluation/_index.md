@@ -8,7 +8,7 @@ pre: " <b> 6. </b> "
 
 # Self-Evaluation
 
-During the internship at **Amazon Web Services Viet Nam Company Limited** (**First Cloud AI Journey - FCAJ** program) from **15/06/2026** to **15/08/2026**, I had the opportunity to learn, practice, and apply AWS cloud computing knowledge to the **Fav Web Portal** project.
+During the internship at **Amazon Web Services Viet Nam Company Limited** (**First Cloud AI Journey - FCAJ** program) from **08/06/2026** to **31/07/2026**, I had the opportunity to learn, practice, and apply AWS cloud computing knowledge to the **Fav Web Portal** project.
 
 I directly designed the system architecture, containerized the backend with Docker, deployed services on AWS EC2, S3, RDS, CloudWatch, and resolved complex cross-domain authentication, CORS, and CSP security issues.
 
