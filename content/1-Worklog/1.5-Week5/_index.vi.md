@@ -20,6 +20,6 @@ pre: " <b> 1.5. </b> "
 
 ### Kết quả đạt được tuần 5:
 * Đã tự động gửi log thực thi ứng dụng từ EC2 lên AWS CloudWatch Logs.
-* Thiết lập hệ thống giám sát tải CPU và theo dõi sự cố vận hành hiệu quả.
+* Thiết lập hệ thống giám sát tải CPU và theo dõi sự cố vận hành hiệu quả. 
 
 ![AWS CloudWatch Logging & Monitoring](/images/cloudwatch.png)
