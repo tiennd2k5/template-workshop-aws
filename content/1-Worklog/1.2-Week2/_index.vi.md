@@ -1,28 +1,32 @@
 ---
-title: "Worklog Tuần 2"
-date: 2026-06-19
+
+title: "Nhật ký công việc Tuần 2"
+date: 2026-06-20
 weight: 2
 chapter: false
 pre: " <b> 1.2. </b> "
----
+----------------------
 
-### Mục tiêu tuần 2:
-* Thiết kế sơ đồ kiến trúc hệ thống trên AWS Cloud.
-* Container hóa Backend FastAPI với Dockerfile.
-* Hoàn thiện các phân hệ tính năng local (Feed, Knowledge, Music, Game, Bookmarks).
+### Mục tiêu Tuần 2:
 
-### Các công việc triển khai trong tuần này:
-| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành |
-| --- | --- | --- | --- |
-| 2 | - Vẽ sơ đồ kiến trúc hệ thống AWS (S3, EC2 Docker, RDS, CloudWatch) | 15/06/2026 | 15/06/2026 |
-| 3 | - Viết `backend/Dockerfile` tối ưu dựa trên Python 3.10-slim | 16/06/2026 | 16/06/2026 |
-| 4 | - Hoàn thiện các tính năng Feed post, Comment, Reactions, Tags | 17/06/2026 | 18/06/2026 |
-| 5 | - Phát triển giao diện Sidebar Layout, Dark/Light Theme toggle | 19/06/2026 | 20/06/2026 |
-| 6 | - Đóng gói và kiểm thử container Docker backend chạy dưới máy local | 21/06/2026 | 21/06/2026 |
+* Xây dựng và hoàn thiện sơ đồ kiến trúc hệ thống trên nền tảng AWS.
+* Đóng gói FastAPI Backend thành Docker container để chuẩn bị cho quá trình triển khai.
+* Tiếp tục hoàn thiện các module chức năng chính trên môi trường local, bao gồm Feed, Knowledge, Music, Games và Bookmarks.
 
-### Kết quả đạt được tuần 2:
-* Sơ đồ kiến trúc AWS được vẽ hoàn chỉnh.
-* `Dockerfile` backend được tạo và build thử thành công.
-* Giao diện UI/UX được nâng cấp lên Sidebar Layout mượt mà.
+### Nội dung công việc:
 
-![Sơ đồ kiến trúc AWS System Architecture](/images/aws_architecture.png)
+| Ngày  | Nội dung thực hiện                                                                                                                               | Ngày bắt đầu | Ngày hoàn thành |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | --------------- |
+| Thứ 2 | - Phác thảo sơ đồ kiến trúc hệ thống AWS <br> - Xác định vai trò của S3, EC2 sử dụng Docker, RDS và CloudWatch trong hệ thống                    | 15/06/2026   | 15/06/2026      |
+| Thứ 3 | - Xây dựng file `backend/Dockerfile` cho ứng dụng FastAPI <br> - Tối ưu môi trường container với image nền Python 3.10-slim                      | 16/06/2026   | 16/06/2026      |
+| Thứ 4 | - Phát triển và hoàn thiện chức năng Feed <br> - Bổ sung các chức năng bài viết, bình luận, tương tác và phân loại theo Category Tags            | 17/06/2026   | 18/06/2026      |
+| Thứ 5 | - Xây dựng giao diện Sidebar Navigation cho ứng dụng <br> - Tích hợp chức năng chuyển đổi giữa giao diện Sáng/Tối (Dark/Light Theme)             | 19/06/2026   | 20/06/2026      |
+| Thứ 6 | - Build Docker image cho FastAPI Backend <br> - Chạy thử và kiểm tra Docker container trên môi trường local để đảm bảo backend hoạt động ổn định | 21/06/2026   | 21/06/2026      |
+
+### Kết quả đạt được trong Tuần 2:
+
+* Hoàn thành sơ đồ kiến trúc hệ thống AWS cho dự án.
+* Đóng gói FastAPI Backend bằng Docker và kiểm thử thành công trên môi trường local.
+* Tích hợp giao diện Sidebar có khả năng responsive cùng chức năng chuyển đổi giữa Dark Theme và Light Theme.
+
+

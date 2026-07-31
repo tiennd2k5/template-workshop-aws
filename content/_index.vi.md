@@ -8,11 +8,11 @@ chapter: false
 # Báo cáo thực tập
 
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Nguyễn Hoàng Nhật Thiên
+&emsp; **Họ và tên:** Nguyễn Đức Tiến
 
-&emsp; **Số điện thoại:** 0963877559
+&emsp; **Số điện thoại:** 0934406779
 
-&emsp; **Email:** thien.nguyenhn@hcmut.edu.vn
+&emsp; **Email:** tien.nguyenduc@hcmut.edu.vn
 
 &emsp; **Trường:** Trường Đại học Bách Khoa - ĐHQG TP.HCM
 

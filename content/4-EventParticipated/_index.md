@@ -1,43 +1,44 @@
 ---
 title: "Events Participated"
-date: 2026-07-24
+date: 2026-07-30
 weight: 4
 chapter: false
 pre: " <b> 4. </b> "
 ---
 
-During the **AWS First Cloud AI Journey (FCAJ)** internship program, I had the opportunity to attend technical workshops and events hosted by AWS Vietnam:
+During the AWS First Cloud AI Journey (FCAJ) internship program, I had the opportunity to attend technical sharing sessions, competitions, and project showcases organized as part of the FCAJ program:
 
-### 1. [Event 1: Event Meeting Kick-off & Tech Sharing (06/06/2026)](4.1-Event1/)
-&emsp;**Event Name:** Event Meeting - FCAJ Orientation & Tech Sharing
+### 1. [Event 1: Event Meeting (11/07/2026)](4.1-Event1/)
+&emsp;**Event Name:** Event Meeting
 
-&emsp;**Date & Time:** June 06, 2026
+&emsp;**Date & Time:** July 11, 2026
 
 &emsp;**Role:** Attendee
 
-&emsp;**Main Activities & 6 Presentation Topics:** [View Event Slide & Photo Drive](https://drive.google.com/drive/folders/1EgyIOIjUsgAMugJDcKKQy-AYbWkrHrLX)
-- **Truong Phuoc:** *Effective Team Collaboration Strategies.*
-- **Viet Phat:** *AWS Neptune for Building a Graph Knowledge Base for GraphRAG.*
-- **Vinh Tran:** *From IT Helpdesk to Senior Sysadmin: Self-Learning Journey & Cloud/DevOps Career Path.*
-- **Bao Huynh:** *Docker - A Containerization Technology.*
-- **Nguyen Quoc Bao:** *Multiplayer in the Cloud: Connecting Godot Clients with AWS WebSockets.*
-- **Le Hoang Gia Dai:** *Combining AWS WAF with Machine Learning for Cyber Attack Detection on AWS.*
+&emsp;**Main Activities & Presentation Topics:** 
+- **Cloud Architect Final Competition:** A challenging architecture competition between two teams.
+- **Nguyen Huynh Son:** *SLA and Monitoring – From SLA to Monitoring What Really Matters.*
+- **Ngo Le Tan Huy:** *Inside the Exam – AWS Cloud Practitioner.*
+- **Thinh Nguyen:** *Securing Your Web Apps with AWS Security Agent.*
 
-&emsp;**Key Takeaways:** Broadened technical knowledge across AWS Neptune, Docker, WebSockets, and WAF ML security, while refining team collaboration strategies for the Fav Web Portal project.
+&emsp;**Key Takeaways:** Strengthened my understanding of AWS monitoring, SLA, cloud security, and AWS certification fundamentals, while gaining practical insights into AI-assisted security testing and cloud architecture.
 
 ---
 
-### 2. [Event 2: Event Meeting 2 - Cloud Community & Advanced Architecture (13/07/2026)](4.2-Event2/)
-&emsp;**Event Name:** Event Meeting 2 - AWS Hackathon Sharing & Cloud-Native Architecture
+### 2. [Event 2: FCAJ x Agentic AI Build Week (25/07/2026)](4.2-Event2/)
+&emsp;**Event Name:** FCAJ x Agentic AI Build Week
 
-&emsp;**Date & Time:** July 13, 2026
+&emsp;**Date & Time:** July 25, 2026
 
 &emsp;**Role:** Attendee
 
-&emsp;**Main Activities & 4 Presentation Topics:** [View Event Slide & Photo Drive](https://drive.google.com/drive/folders/1EgyIOIjUsgAMugJDcKKQy-AYbWkrHrLX)
-- **Team 3KA:** *Hackathon Journey - Rapid Prototyping & Agile Problem Solving.*
-- **AWS Community:** *OneTeam & AWS Community Day - Knowledge Sharing Spirit.*
-- **SignalScout Team:** *SignalScout - Intelligent Signal Analysis on AWS.*
-- **Solutions Architect:** *Building Cloud-Native Applications with AWS Solutions Architecture.*
+&emsp;**Main Activities & Project Showcases:** 
+- **One Team:** *KFC Bot Agent – AI-powered conversational ordering.*
+- **3KA Team:** *S.H.E.P.H.E.R.D – AI-powered crowd monitoring and operational assistance.*
+- **Plan V Team:** *AI-powered Solution Architecture Assistant.*
+- **Signal Scout Team:** *AI Multi-Agent Platform for Intelligent Signal Analysis.*
+- **Six Pillars Team:** *AI-powered Anti-Money Laundering (AML) Workflow.*
 
-&emsp;**Key Takeaways:** Absorbed hackathon agile execution mindset, mastered AWS SA Professional cloud-native application design standards, and enhanced cloud solution capabilities.
+&emsp;**Key Takeaways:** Learned how different teams applied Agentic AI, AWS services, and multi-agent architectures to solve practical business problems, gaining insights into AI Agent design, tool integration, automation, and real-world cloud solution development.
+
+---

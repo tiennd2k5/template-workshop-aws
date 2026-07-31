@@ -1,15 +1,15 @@
 ---
 title: "Event 1: Event Meeting"
-date: 2026-07-24
+date: 2026-07-30
 weight: 1
 chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# Event 1: Event Meeting - Technical Knowledge Sharing & FCAJ Kick-off
+# Event 1: Event Meeting
 
-- **Event Name:** Event Meeting (AWS First Cloud AI Journey Kick-off & Tech Sharing)
-- **Date & Time:** June 06, 2026
+- **Event Name:** Event Meeting 
+- **Date & Time:** July 11, 2026
 - **Role:** Attendee
 - **Event Photo & Slide Drive:** [Google Drive Folder](https://drive.google.com/drive/folders/1EgyIOIjUsgAMugJDcKKQy-AYbWkrHrLX)
 
@@ -17,30 +17,34 @@ pre: " <b> 4.1. </b> "
 
 ### Agenda & Key Presentation Topics:
 
-During the Event Meeting, speakers and student members presented 6 technical topics:
+The event featured the Cloud Architect final competition, along with technical sharing sessions where senior members of the AWS First Cloud AI Journey (FCAJ) shared their practical experience, technical knowledge, and best practices in cloud technologies and software engineering.
+1. **Nguyen Huynh Son** 
+   - **Topic**: SLA and Monitoring – From SLA to Monitoring What Really Matters
+   - **Key Takeaways:**
+     - Monitoring should focus on customer experience and business outcomes, not just infrastructure metrics.
+     - Healthy infrastructure does not guarantee a healthy user experience.
+     - Build monitoring using a layered approach: Customer Experience → Business Metrics → Application → Infrastructure → Cloud Resources.
+     - Monitoring is part of risk management, enabling teams to detect issues before they impact customers or violate SLAs.
+     - Under AWS's Shared Responsibility Model, AWS manages the cloud infrastructure, while customers are responsible for application reliability and user experience.
+     - Monitor user journeys (e.g., login, checkout, payment, search) instead of relying solely on CPU, memory, or health checks.
+2. **Ngo Le Tan Huy**
+   - **Topic**: Inside the Exam – AWS Cloud Practitioner
+   - **Key Takeaways:**
+     - The AWS Certified Cloud Practitioner (CLF-C02) exam focuses on foundational cloud knowledge rather than programming or deep technical implementation.
+     - Prioritize understanding core AWS concepts: Cloud Concepts, Security & Compliance, Cloud Technology & Services, and Billing & Support, based on their exam weight.
+     - Learn AWS services through their primary use cases and keywords instead of memorizing every feature (e.g., SQS → decoupling, S3 → object storage, IAM → access management).
+     - Master essential AWS principles such as the Shared Responsibility Model, IAM least privilege, AWS Well-Architected Framework, and Cloud Adoption Framework, as they are frequently tested.
+     - Effective exam preparation comes from reviewing mistakes, performing hands-on practice with AWS Free Tier, and understanding why each answer is correct or incorrect, not just completing practice tests.
+     - During the exam, improve accuracy by eliminating obviously incorrect options, avoiding overthinking, paying attention to keywords (e.g., NOT, Least Cost, Most Scalable), and using the flag for review feature to manage time effectively.
+3. **Thinh Nguyen**
+   - **Topic**: Securing Your Web Apps with AWS Security Agent
+   - **Key Takeaways:**
+     - Traditional security assessments are often slow, expensive, and inconsistent, making continuous security testing difficult to scale.
+     - AWS Security Agent leverages Amazon Bedrock to autonomously perform security tasks across the software development lifecycle, including design review, code review, and penetration testing.
+     - Shift security left by identifying vulnerabilities early through architecture reviews and automated pull request analysis, reducing the cost of fixing issues later.
+     - Unlike traditional AI assistants, the agent provides verifiable findings by attempting real exploitation and generating attack graphs, helping teams confirm vulnerabilities rather than relying on theoretical analysis.
+     - AI-powered security testing can significantly reduce reliance on manual penetration testing, but it should complement rather than replace human expertise, especially for complex business logic and advanced authentication mechanisms such as MFA or mTLS.
+     - Organizations should also evaluate the cost-benefit tradeoff of autonomous security agents, as pricing is based on execution time, but can still be substantially lower than engaging traditional penetration testing teams.
 
-1. **Truong Phuoc** — *Topic: Effective Team Collaboration Strategies*
-   - Frameworks for team communication, task management, agile workflows, and resolving technical team conflicts.
-2. **Viet Phat** — *Topic: AWS Neptune for Building a Graph Knowledge Base for GraphRAG*
-   - Leveraging Amazon Neptune graph database to build Knowledge Graphs for Retrieval-Augmented Generation (GraphRAG) on AWS Cloud.
-3. **Vinh Tran** — *Topic: From IT Helpdesk to Senior Sysadmin: Self-Learning Journey & Cloud/DevOps Career Path*
-   - Personal career transformation insights, certification roadmaps, and transition strategies from traditional Sysadmin to Cloud Infrastructure Engineering.
-4. **Bao Huynh** — *Topic: Docker - A Containerization Technology*
-   - Containerization concepts, Dockerfile optimization techniques, and container orchestration for backend application deployment.
-5. **Nguyen Quoc Bao** — *Topic: Multiplayer in the Cloud: Connecting Godot Clients with AWS WebSockets*
-   - Building real-time multiplayer architecture integrating Godot game engine clients with AWS API Gateway WebSockets.
-6. **Le Hoang Gia Dai** — *Topic: Combining AWS WAF with Machine Learning for Cyber Attack Detection on AWS*
-   - Integrating AWS WAF application firewall rules with Machine Learning NIDS models for automated cyber threat mitigation.
 
----
 
-### Outcomes & Key Takeaways:
-
-1. **Broadened AWS Technical Expertise:** 
-   - Acquired deep technical insights into **Amazon Neptune (Graph DB)**, **AWS WAF + ML (Security)**, **API Gateway WebSockets**, and **Docker Containerization**.
-2. **Clear Career Roadmap:** 
-   - Gained practical inspiration and strategic advice regarding AWS Cloud/DevOps career paths and certification tracks.
-3. **Enhanced Teamwork & Collaboration Skills:** 
-   - Applied teamwork methodologies directly to team dynamics while developing the **Fav Web Portal** project.
-4. **Infrastructure Readiness:** 
-   - Applied Docker containerization practices to package and deploy the FastAPI backend onto AWS EC2 and S3 infrastructure.

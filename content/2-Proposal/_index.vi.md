@@ -1,6 +1,6 @@
 ---
 title: "Bản đề xuất"
-date: 2026-07-24
+date: 2026-07-30
 weight: 2
 chapter: false
 pre: " <b> 2. </b> "
@@ -95,9 +95,9 @@ Dưới đây là bảng dự toán chi phí ước tính hàng tháng cho hệ 
 ### 8. Kết quả kỳ vọng & Giá trị dự án (Expected Outcomes)
 
 * **Về mặt kỹ thuật:**
-  - Xây dựng thành công Cổng thông tin & Giải trí đa phương tiện hoạt động thực tế 100% trên hạ tầng điện toán đám mây AWS.
+  - Dự án hướng đến việc xây dựng và triển khai một cổng thông tin Cloud-native có khả năng vận hành trên hạ tầng AWS.
   - Phân tách kiến trúc Frontend tĩnh (S3) và Backend tính toán (EC2 Docker) giúp tối ưu hóa hiệu năng, giảm chi phí vận hành đến mức tối đa.
-  - Đảm bảo an toàn bảo mật dữ liệu sinh trắc học và quản lý phiên làm việc người dùng tiêu chuẩn.
+  - Xây dựng cơ chế lưu trữ dữ liệu sinh trắc học và xác thực người dùng một cách an toàn.
 
 * **Giá trị thực tiễn & Lâu dài:**
   - Bộ tài liệu Workshop hoàn chỉnh là nguồn tài nguyên tham khảo chất lượng cho cộng đồng học tập AWS và sinh viên các khóa sau trong chương trình **First Cloud AI Journey (FCAJ)**.

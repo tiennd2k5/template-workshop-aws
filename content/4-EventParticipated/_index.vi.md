@@ -1,44 +1,44 @@
 ---
-title: "Các events đã tham gia"
-date: 2026-07-24
+title: "Các sự kiện đã tham gia"
+date: 2026-07-30
 weight: 4
 chapter: false
 pre: " <b> 4. </b> "
 ---
 
-Trong suốt quá trình tham gia chương trình thực tập **AWS First Cloud AI Journey (FCAJ)**, em đã có cơ hội tham dự các sự kiện chuyên môn và hội thảo công nghệ do AWS Việt Nam tổ chức:
+Trong thời gian tham gia chương trình thực tập **AWS First Cloud AI Journey (FCAJ)**, tôi đã có cơ hội tham dự các buổi chia sẻ kiến thức kỹ thuật, các cuộc thi và các buổi giới thiệu dự án được tổ chức trong khuôn khổ chương trình:
 
-### 1. [Event 1: Event Meeting Kick-off & Tech Sharing (06/06/2026)](4.1-Event1/)
-&emsp;**Tên sự kiện:** Event Meeting - FCAJ Orientation & Tech Sharing
+### 1. [Sự kiện 1: Event Meeting (11/07/2026)](4.1-Event1/)
+&emsp;**Tên sự kiện:** Event Meeting
 
-&emsp;**Thời gian tổ chức:** 06/06/2026
+&emsp;**Thời gian:** 11/07/2026
 
-&emsp;**Vai trò trong sự kiện:** Người tham dự
+&emsp;**Vai trò:** Người tham dự
 
-&emsp;**Nội dung & 6 Chủ đề báo cáo chính:** [Xem tài liệu & Slide sự kiện trên Google Drive](https://drive.google.com/drive/folders/1EgyIOIjUsgAMugJDcKKQy-AYbWkrHrLX)
-- **Trương Phước:** *Cách làm việc nhóm hiệu quả.*
-- **Việt Phát:** *AWS Neptune for Building a Graph Knowledge Base for GraphRAG.*
-- **Vinh Trần:** *Từ IT Helpdesk lên Senior Sysadmin: Hành trình tự học & Lộ trình dịch chuyển sang Cloud/DevOps.*
-- **Bảo Huỳnh:** *Docker - A Containerization Technology.*
-- **Nguyễn Quốc Bảo:** *Multiplayer in the Cloud: Connecting Godot Clients with AWS WebSockets.*
-- **Lê Hoàng Gia Đại:** *Combining AWS WAF with Machine Learning for Cyber Attack Detection on AWS.*
+&emsp;**Hoạt động chính & Các chủ đề trình bày:** 
+- **Chung kết Cloud Architect:** Cuộc thi kiến trúc Cloud đầy thử thách giữa hai đội.
+- **Nguyen Huynh Son:** *SLA và Monitoring – Từ SLA đến Monitoring những yếu tố thực sự quan trọng.*
+- **Ngo Le Tan Huy:** *Inside the Exam – AWS Cloud Practitioner.*
+- **Thinh Nguyen:** *Securing Your Web Apps with AWS Security Agent.*
 
-&emsp;**Kết quả đạt được:** Tiếp thu kiến thức Cloud/DevOps đa dạng (AWS Neptune, Docker, WebSockets, WAF ML), nâng cao kỹ năng làm việc nhóm và chuẩn bị hạ tầng triển khai dự án Fav Web Portal.
+&emsp;**Bài học chính:** Củng cố hiểu biết về AWS Monitoring, SLA, bảo mật Cloud và kiến thức nền tảng cho chứng chỉ AWS, đồng thời có thêm góc nhìn thực tế về kiểm thử bảo mật có sự hỗ trợ của AI và kiến trúc Cloud.
 
 ---
 
-### 2. [Event 2: Event Meeting 2 - Cloud Community & Advanced Architecture (13/07/2026)](4.2-Event2/)
-&emsp;**Tên sự kiện:** Event Meeting 2 - AWS Hackathon Sharing & Cloud-Native Architecture
+### 2. [Sự kiện 2: FCAJ x Agentic AI Build Week (25/07/2026)](4.2-Event2/)
+&emsp;**Tên sự kiện:** FCAJ x Agentic AI Build Week
 
-&emsp;**Thời gian tổ chức:** 13/07/2026
+&emsp;**Thời gian:** 25/07/2026
 
-&emsp;**Vai trò trong sự kiện:** Người tham dự
+&emsp;**Vai trò:** Người tham dự
 
-&emsp;**Nội dung & 4 Chủ đề báo cáo chính:** [Xem tài liệu & Slide sự kiện trên Google Drive](https://drive.google.com/drive/folders/1EgyIOIjUsgAMugJDcKKQy-AYbWkrHrLX)
-- **Team 3KA:** *Hackathon Journey - Trải nghiệm thực chiến phát triển sản phẩm nhanh.*
-- **AWS Community:** *OneTeam & AWS Community Day - Tinh thần kết nối & chia sẻ tri thức.*
-- **SignalScout Team:** *SignalScout - Intelligent Signal Analysis on AWS.*
-- **Solutions Architect:** *Building Cloud-Native Applications with AWS Solutions Architecture.*
+&emsp;**Hoạt động chính & Các dự án được trình bày:** 
+- **One Team:** *KFC Bot Agent – AI hỗ trợ đặt hàng bằng hội thoại.*
+- **3KA Team:** *S.H.E.P.H.E.R.D – Hệ thống giám sát đám đông và hỗ trợ vận hành bằng AI.*
+- **Plan V Team:** *Trợ lý AI hỗ trợ thiết kế kiến trúc Solution Architecture.*
+- **Signal Scout Team:** *Nền tảng AI đa tác tử cho phân tích tín hiệu thông minh.*
+- **Six Pillars Team:** *Quy trình Anti-Money Laundering (AML) được hỗ trợ bởi AI.*
 
-&emsp;**Kết quả đạt được:** Học hỏi tư duy làm sản phẩm nhanh từ Hackathon, tiếp thu tiêu chuẩn thiết kế kiến trúc chuẩn AWS SA Professional và nâng cao kỹ năng xây dựng ứng dụng Cloud-Native.
+&emsp;**Bài học chính:** Tìm hiểu cách các đội thi ứng dụng Agentic AI, các dịch vụ AWS và kiến trúc đa tác tử để giải quyết các vấn đề thực tế trong doanh nghiệp, qua đó hiểu thêm về thiết kế AI Agent, tích hợp công cụ, tự động hóa và phát triển các giải pháp Cloud trong thực tế.
 
+---

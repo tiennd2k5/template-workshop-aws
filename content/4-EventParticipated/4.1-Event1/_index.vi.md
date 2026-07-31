@@ -1,46 +1,50 @@
 ---
-title: "Event 1: Event Meeting"
-date: 2026-07-24
+title: "Sự kiện 1: Event Meeting"
+date: 2026-07-30
 weight: 1
 chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# Event 1: Event Meeting - Chia sẻ Chuyên môn & Định hướng Chương trình FCAJ
+# Sự kiện 1: Event Meeting 
 
-- **Tên sự kiện:** Event Meeting (AWS First Cloud AI Journey Kick-off & Tech Sharing)
-- **Thời gian tổ chức:** 06/06/2026
-- **Vai trò trong sự kiện:** Người tham dự (Student Participant)
-- **Link tài liệu & Ảnh sự kiện:** [Google Drive Folder](https://drive.google.com/drive/folders/1EgyIOIjUsgAMugJDcKKQy-AYbWkrHrLX)
-
----
-
-### Nội dung & Các chủ đề báo cáo chính (Main Presentation Topics):
-
-Trong buổi Event Meeting, các diễn giả và thành viên đã trình bày và thảo luận 6 chủ đề chuyên môn quan trọng:
-
-1. **Trương Phước** — *Chủ đề: Cách làm việc nhóm hiệu quả (Effective Team Collaboration)*
-   - Chia sẻ phương pháp tổ chức công việc nhóm, quy trình giao tiếp, quản lý nhiệm vụ và giải quyết xung đột khi phối hợp làm dự án kỹ thuật.
-2. **Việt Phát** — *Chủ đề: AWS Neptune for Building a Graph Knowledge Base for GraphRAG*
-   - Giới thiệu cơ sở dữ liệu đồ thị Amazon Neptune, phương pháp xây dựng Knowledge Graph để tối ưu hóa mô hình truy xuất thông tin nâng cao (GraphRAG) trên AWS Cloud.
-3. **Vinh Trần** — *Chủ đề: Từ IT Helpdesk lên Senior Sysadmin: Hành trình tự học & Lộ trình dịch chuyển sang Cloud/DevOps*
-   - Chia sẻ lộ trình phát triển sự nghiệp cá nhân, kinh nghiệm tự học các chứng chỉ AWS/DevOps và kỹ năng thực tế để chuyển đổi từ vận hành truyền thống sang Cloud Infrastructure.
-4. **Bảo Huỳnh** — *Chủ đề: Docker - A Containerization Technology*
-   - Phân tích nguyên lý hoạt động của Docker, lợi ích của việc container hóa ứng dụng, cách tối ưu Dockerfile và ứng dụng Docker trong quy trình đóng gói Backend FastAPI.
-5. **Nguyễn Quốc Bảo** — *Chủ đề: Multiplayer in the Cloud: Connecting Godot Clients with AWS WebSockets*
-   - Hướng dẫn thiết lập hạ tầng Serverless kết nối game engine Godot với dịch vụ AWS API Gateway WebSockets phục vụ truyền nhận dữ liệu thời gian thực (Real-time Multiplayer).
-6. **Lê Hoàng Gia Đại** — *Chủ đề: Combining AWS WAF with Machine Learning for Cyber Attack Detection on AWS*
-   - Giải pháp bảo mật tường lửa ứng dụng web AWS WAF kết hợp mô hình Machine Learning phát hiện và ngăn chặn tự động các cuộc tấn công mạng (NIDS) vào hạ tầng Cloud.
+- **Tên sự kiện:** Event Meeting 
+- **Thời gian:** 11/07/2026
+- **Vai trò:** Người tham dự
+- **Drive hình ảnh & slide sự kiện:** [Google Drive Folder](https://drive.google.com/drive/folders/1GfbwjmjqX4xpUiN5UZ62xLbRSs9-fwyM?usp=sharing)
 
 ---
 
-### Kết quả & Giá trị đạt được (Outcomes & Key Takeaways):
+### Nội dung chương trình & Các chủ đề chính:
 
-1. **Tiếp thu Kiến thức Kỹ thuật Đa dạng:** 
-   - Nắm vững các công nghệ tiên tiến trên AWS như **AWS Neptune (Graph DB)**, **AWS WAF + ML (Security)**, **API Gateway WebSockets (Real-time)** và **Docker Containerization**.
-2. **Định hướng Lộ trình Phát triển Nghề nghiệp:** 
-   - Lắng nghe kinh nghiệm thực tế từ lộ trình chuyển đổi sự nghiệp sang Cloud/DevOps, tạo động lực rèn luyện tư duy tự học và định hướng chứng chỉ AWS.
-3. **Nâng cao Kỹ năng Mềm & Phối hợp Nhóm:** 
-   - Nắm bắt phương pháp làm việc nhóm hiệu quả, áp dụng trực tiếp vào quá trình phối hợp xây dựng dự án **Fav Web Portal** trong kỳ thực tập.
-4. **Chuẩn bị Môi trường Triển khai Dự án:** 
-   - Vận dụng kiến thức Docker và AWS WAF/CORS để chuẩn bị cho việc đóng gói và triển khai ứng dụng web đa dịch vụ trên AWS EC2 & S3.
+Sự kiện bao gồm vòng chung kết Cloud Architect, cùng với các buổi chia sẻ kiến thức kỹ thuật, trong đó các thành viên có kinh nghiệm của AWS First Cloud AI Journey (FCAJ) chia sẻ kiến thức chuyên môn, kinh nghiệm thực tế và các phương pháp tốt trong lĩnh vực công nghệ Cloud và kỹ thuật phần mềm.
+
+1. **Nguyễn Huỳnh Sơn**
+   - **Chủ đề:** SLA và Monitoring – Từ SLA đến Monitoring những yếu tố thực sự quan trọng
+   - **Bài học chính:**
+     - Hoạt động Monitoring nên tập trung vào trải nghiệm khách hàng và kết quả kinh doanh, thay vì chỉ theo dõi các chỉ số của hạ tầng.
+     - Hạ tầng hoạt động ổn định không đồng nghĩa với việc trải nghiệm người dùng cũng đang tốt.
+     - Xây dựng hệ thống Monitoring theo nhiều lớp: Trải nghiệm khách hàng → Chỉ số kinh doanh → Ứng dụng → Hạ tầng → Tài nguyên Cloud.
+     - Monitoring là một phần của quản lý rủi ro, giúp phát hiện vấn đề trước khi chúng ảnh hưởng đến khách hàng hoặc vi phạm SLA.
+     - Theo AWS Shared Responsibility Model, AWS chịu trách nhiệm quản lý hạ tầng Cloud, trong khi khách hàng chịu trách nhiệm về độ tin cậy của ứng dụng và trải nghiệm người dùng.
+     - Nên theo dõi các hành trình của người dùng (ví dụ: đăng nhập, thanh toán, tìm kiếm, đặt hàng) thay vì chỉ dựa vào CPU, bộ nhớ hoặc các health check.
+
+2. **Ngô Lê Tấn Huy**
+   - **Chủ đề:** Inside the Exam – AWS Cloud Practitioner
+   - **Bài học chính:**
+     - Kỳ thi AWS Certified Cloud Practitioner (CLF-C02) tập trung vào kiến thức nền tảng về Cloud, không yêu cầu lập trình hoặc triển khai kỹ thuật chuyên sâu.
+     - Ưu tiên nắm vững các khái niệm cốt lõi của AWS: Cloud Concepts, Security & Compliance, Cloud Technology & Services, và Billing & Support dựa trên tỷ trọng của từng phần trong kỳ thi.
+     - Học các dịch vụ AWS dựa trên chức năng và trường hợp sử dụng chính cùng các từ khóa đặc trưng, thay vì cố gắng ghi nhớ mọi tính năng (ví dụ: SQS → decoupling, S3 → object storage, IAM → access management).
+     - Nắm vững các nguyên tắc quan trọng của AWS như Shared Responsibility Model, IAM Least Privilege, AWS Well-Architected Framework và Cloud Adoption Framework, vì đây là những nội dung thường xuất hiện trong kỳ thi.
+     - Việc ôn thi hiệu quả nên tập trung vào phân tích các câu trả lời sai, thực hành trực tiếp với AWS Free Tier và hiểu lý do tại sao mỗi đáp án đúng hoặc sai, thay vì chỉ làm thật nhiều đề luyện tập.
+     - Trong quá trình thi, có thể tăng độ chính xác bằng cách loại bỏ các đáp án rõ ràng không phù hợp, tránh suy nghĩ quá phức tạp, chú ý đến các từ khóa như NOT, Least Cost, Most Scalable, đồng thời sử dụng chức năng đánh dấu câu hỏi để quản lý thời gian hiệu quả.
+
+3. **Thịnh Nguyễn**
+   - **Chủ đề:** Securing Your Web Apps with AWS Security Agent
+   - **Bài học chính:**
+     - Các hoạt động đánh giá bảo mật truyền thống thường tốn nhiều thời gian, chi phí và có tính nhất quán hạn chế, khiến việc kiểm thử bảo mật liên tục khó mở rộng.
+     - AWS Security Agent sử dụng Amazon Bedrock để tự động thực hiện các tác vụ bảo mật trong vòng đời phát triển phần mềm, bao gồm đánh giá thiết kế, kiểm tra mã nguồn và penetration testing.
+     - Thực hiện Shift Left Security bằng cách phát hiện lỗ hổng sớm thông qua đánh giá kiến trúc và phân tích Pull Request tự động, từ đó giảm chi phí xử lý vấn đề ở các giai đoạn sau.
+     - Khác với các trợ lý AI truyền thống, Agent có khả năng cung cấp các phát hiện có thể kiểm chứng bằng cách thực hiện khai thác thực tế và tạo attack graph, giúp xác nhận lỗ hổng thay vì chỉ đưa ra phân tích lý thuyết.
+     - Kiểm thử bảo mật bằng AI có thể giảm đáng kể sự phụ thuộc vào penetration testing thủ công, nhưng nên được sử dụng để bổ trợ thay vì thay thế chuyên môn của con người, đặc biệt đối với các business logic phức tạp và cơ chế xác thực nâng cao như MFA hoặc mTLS.
+     - Doanh nghiệp cũng cần đánh giá sự cân bằng giữa chi phí và lợi ích khi sử dụng các Security Agent tự động, vì chi phí phụ thuộc vào thời gian thực thi, nhưng trong nhiều trường hợp vẫn có thể thấp hơn đáng kể so với việc thuê các đội penetration testing truyền thống.

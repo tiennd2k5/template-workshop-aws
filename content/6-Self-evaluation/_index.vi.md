@@ -1,37 +1,42 @@
 ---
+
 title: "Tự đánh giá"
-date: 2026-07-24
+date: 2026-07-30
 weight: 6
 chapter: false
 pre: " <b> 6. </b> "
----
+--------------------
 
-# Tự đánh giá cá nhân (Self-Evaluation)
 
-Trong suốt thời gian thực tập tại **Công ty TNHH Amazon Web Services Viet Nam** (chương trình **First Cloud AI Journey - FCAJ**) từ ngày **08/06/2026** đến **31/07/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức điện toán đám mây AWS vào dự án thực tế **Fav Web Portal**.
 
-Tôi đã trực tiếp thiết kế kiến trúc, đóng gói backend container với Docker, triển khai ứng dụng lên AWS EC2, S3, RDS, CloudWatch và trực tiếp giải quyết các sự cố kỹ thuật về bảo mật, CORS, CSP và xác thực cross-domain.
+Trong thời gian thực tập tại **Amazon Web Services Viet Nam Company Limited** thuộc chương trình **First Cloud AI Journey (FCAJ)** từ **08/06/2026** đến **31/07/2026**, tôi đã có cơ hội học tập, thực hành và áp dụng những kiến thức về điện toán đám mây AWS vào dự án **Fav Web Portal**.
 
-Dưới đây là bảng tự đánh giá bản thân dựa trên các tiêu chí chuẩn của chương trình FCAJ:
+Tôi đã tham gia phát triển và cải thiện ứng dụng web, bao gồm thiết lập **FastAPI Backend** và **React/Vite Frontend**, tích hợp tính năng **Nhận diện khuôn mặt bằng AI (AI Face Recognition)**, đồng thời tìm hiểu và triển khai các thành phần của ứng dụng trên các dịch vụ AWS như **S3, EC2, RDS và CloudWatch**. Thông qua quá trình thực tập, tôi đã nâng cao các kỹ năng về **phát triển Backend và Frontend, điện toán đám mây, kiến trúc hệ thống, tích hợp AI, xử lý sự cố, viết tài liệu kỹ thuật và giải quyết vấn đề**.
 
-| STT | Tiêu chí | Mô tả đánh giá | Tốt | Khá | Trung bình |
-| --- | --- | --- | :---: | :---: | :---: |
-| 1 | **Kiến thức & Kỹ năng chuyên môn** | Nắm vững kiến trúc AWS (S3, EC2, RDS, CloudWatch), FastAPI, React, Docker, AI Face Recognition | ✅ | ☐ | ☐ |
-| 2 | **Khả năng học hỏi** | Tiếp thu nhanh kiến thức cloud, chủ động nghiên cứu tài liệu AWS và các chính sách bảo mật CORS/CSP | ✅ | ☐ | ☐ |
-| 3 | **Tính chủ động** | Tự tìm hiểu nguyên nhân sự cố, chủ động đề xuất giải pháp JWT Dual Auth (Cookie + Bearer Fallback) | ✅ | ☐ | ☐ |
-| 4 | **Tinh thần trách nhiệm** | Hoàn thành đúng tiến độ 8 tuần thực tập, đảm bảo hệ thống vận hành ổn định trên AWS | ✅ | ☐ | ☐ |
-| 5 | **Kỷ luật & Tác phong** | Tuân thủ giờ giấc và quy định làm việc, cần tiếp tục duy trì sự nghiêm túc cao trong công việc | ☐ | ✅ | ☐ |
-| 6 | **Tính cầu tiến** | Tiếp thu đóng góp từ Mentor và Giảng viên hướng dẫn, sẵn sàng cải thiện tối ưu hóa code & bundle size | ✅ | ☐ | ☐ |
-| 7 | **Kỹ năng giao tiếp & Thuyết trình** | Truyền đạt ý tưởng kỹ thuật khá, cần tiếp tục rèn luyện kỹ năng diễn đạt và báo cáo trước đám đông | ☐ | ✅ | ☐ |
-| 8 | **Hợp tác nhóm (Teamwork)** | Phối hợp tốt với các thành viên trong nhóm, chia sẻ kiến thức và hỗ trợ giải quyết lỗi chung | ☐ | ✅ | ☐ |
-| 9 | **Ứng xử chuyên nghiệp** | Tôn trọng quy định làm việc, giao tiếp văn minh và giữ môi trường làm việc tích cực | ✅ | ☐ | ☐ |
-| 10 | **Tư duy giải quyết vấn đề** | Phân tích root-cause chính xác từ log F12/CloudWatch, đưa ra giải pháp khắc phục bài bản | ✅ | ☐ | ☐ |
-| 11 | **Đóng góp cho dự án** | Xây dựng hoàn thiện dự án Fav Web Portal chạy thực tế trên AWS S3 và EC2 | ✅ | ☐ | ☐ |
-| 12 | **Quản lý thời gian thuyết trình** | Phân bổ thời gian trình bày báo cáo đôi lúc chưa tối ưu khi giải thích các lỗi kỹ thuật phức tạp | ☐ | ☐ | ✅ |
+Về tác phong làm việc, tôi luôn cố gắng hoàn thành tốt các nhiệm vụ được giao, tuân thủ các quy định trong môi trường làm việc và chủ động trao đổi với các thành viên để nâng cao hiệu quả công việc.
 
-### Điểm rút ra & Hướng cải thiện bản thân:
+Để đánh giá một cách khách quan quá trình thực tập của bản thân, tôi tự đánh giá dựa trên các tiêu chí sau:
 
-* **Bài học rút ra:** Nắm chắc nguyên lý bảo mật trên Cloud (Security Groups, IAM Policies, CORS, CSP) giúp tiết kiệm rất nhiều thời gian khi triển khai các hệ thống thực tế.
-* **Cần tiếp tục cải thiện:** 
-  - Nâng cao trải nghiệm làm việc với các công cụ Infrastructure as Code (AWS CDK / Terraform) để tự động hóa việc khởi tạo hạ tầng.
-  - Rèn luyện thêm kỹ năng thuyết trình và demo dự án trước đám đông.
+| STT | Tiêu chí                           | Mô tả                                                                                                  | Tốt | Khá | Trung bình |
+| --- | ---------------------------------- | ------------------------------------------------------------------------------------------------------ | --- | --- | ---------- |
+| 1   | **Kiến thức & kỹ năng chuyên môn** | Hiểu biết về lĩnh vực, khả năng áp dụng kiến thức vào thực tế, sử dụng công cụ và chất lượng công việc | ✅   | ☐   | ☐          |
+| 2   | **Khả năng học hỏi**               | Khả năng tiếp thu kiến thức mới và học hỏi nhanh                                                       | ✅   | ☐   | ☐          |
+| 3   | **Tính chủ động**                  | Chủ động thực hiện công việc, tìm kiếm nhiệm vụ và giải quyết vấn đề mà không cần chờ hướng dẫn        | ✅   | ☐   | ☐          |
+| 4   | **Tinh thần trách nhiệm**          | Hoàn thành công việc đúng thời hạn và đảm bảo chất lượng                                               |☐    | ✅   | ☐          |
+| 5   | **Tính kỷ luật**                   | Tuân thủ thời gian, quy định và quy trình làm việc                                                     | ☐   | ✅   | ☐          |
+| 6   | **Tinh thần cầu tiến**             | Sẵn sàng tiếp nhận phản hồi và không ngừng cải thiện bản thân                                          | ✅   | ☐   | ☐          |
+| 7   | **Kỹ năng giao tiếp**              | Trình bày ý tưởng và báo cáo công việc một cách rõ ràng                                                | ☐   | ✅   | ☐          |
+| 8   | **Kỹ năng làm việc nhóm**          | Phối hợp hiệu quả với đồng nghiệp và tham gia các hoạt động nhóm                                       | ✅   | ☐   | ☐          |
+| 9   | **Tác phong chuyên nghiệp**        | Tôn trọng đồng nghiệp, đối tác và môi trường làm việc                                                  | ✅   | ☐   | ☐          |
+| 10  | **Kỹ năng giải quyết vấn đề**      | Xác định vấn đề, đề xuất giải pháp và thể hiện khả năng sáng tạo                                       | ☐   | ✅   | ☐          |
+| 11  | **Đóng góp cho dự án/nhóm**        | Hiệu quả công việc, đóng góp ý tưởng và mức độ ghi nhận từ nhóm                                        | ☐   | ✅   | ☐          |
+| 12  | **Tổng thể**                       | Đánh giá chung về toàn bộ quá trình thực tập                                                           | ✅   | ☐   | ☐          |
+
+### Nhìn lại & Phát triển bản thân
+
+* **Bài học quan trọng:** Việc được trực tiếp thực hành với hạ tầng và các cơ chế bảo mật trên AWS giúp tôi hiểu rõ hơn về vai trò của kiểm soát quyền truy cập, cấu hình mạng và bảo mật ứng dụng đối với tính ổn định và độ tin cậy của một hệ thống Cloud.
+
+* **Những điểm cần tiếp tục phát triển:**
+
+  * Nâng cao kiến thức về **Infrastructure as Code (IaC)**, đặc biệt là các công cụ như **AWS CDK** và **Terraform**, nhằm tự động hóa quá trình triển khai hạ tầng và giúp việc quản lý hệ thống hiệu quả, nhất quán hơn.
+  * Phát triển thêm **kỹ năng giao tiếp và thuyết trình**, đặc biệt trong việc trình bày các giải pháp kỹ thuật và thực hiện demo sản phẩm trước người khác.

@@ -1,42 +1,46 @@
 ---
 title: "Sharing and Feedback"
-date: 2026-07-24
+date: 2026-07-30
 weight: 7
 chapter: false
 pre: " <b> 7. </b> "
 ---
 
-# Sharing & Feedback
-
-After completing the 8-week **First Cloud AI Journey (FCAJ)** program organized by AWS Vietnam in collaboration with Ho Chi Minh City University of Technology (HCMUT - VNU-HCM), I would like to share my personal feedback:
-
 ### 1. Overall Experience Evaluation
 
-**1. Learning & Working Environment:**  
-The internship environment was dynamic, highly professional, and inspiring. AWS office facilities provided an excellent workspace for students to research, build, and innovate.
+**1. Working Environment:**  
+The working environment is very friendly and open. FCAJ members are always willing to help whenever I encounter difficulties, even outside working hours. The workspace is tidy and comfortable, but it can sometimes be a little cold.
 
-**2. Mentor & Organizer Support:**  
+**2. Support from Mentor / Team Admin:**  
 Mentors (especially advisor Lu Hoan Thien) provided continuous guidance on cloud architecture design and offered practical troubleshooting advice when resolving complex security issues (such as CORS, CSP, and secure cookie headers).
 
-**3. Alignment with Academic Major:**  
-The **Fav Web Portal** project aligned with my Computer Science / IT major. Combining full-stack web development (React, FastAPI), AI Biometric Recognition, and AWS Cloud Infrastructure (EC2, S3, RDS, CloudWatch) bridged theoretical knowledge with real-world deployment skills.
+**3. Relevance of Work to Academic Major:**  
+The tasks I was assigned align well with the knowledge I learned at university, while also introducing me to new areas I had never encountered before. This allowed me to both strengthen my foundational knowledge and gain practical skills.
 
-**4. Personal Growth Opportunities:**  
-I gained hands-on expertise with core AWS services, mastered scalable system architecture design principles, improved technical writing capabilities, and developed professional workplace discipline.
+**4. Learning & Skill Development Opportunities:**  
+During the internship, I learned many new skills such as using project management tools, teamwork skills, and professional communication in a corporate environment. FCAJ members also shared valuable real-world experiences that helped me better plan my career path.
+
+**5. Company Culture & Team Spirit:**  
+The company culture is very positive: everyone respects each other, works seriously but still keeps things enjoyable. When there are urgent projects, everyone works together and supports one another regardless of their position. This made me feel like a real part of the team, even as an intern.
+
+**6. Internship Policies / Benefits:**  
+The company provides an internship allowance and offers flexible working hours when needed. In addition, having the opportunity to join internal training sessions is a big plus.
 
 ---
 
-### 2. Summary Questions
+### 2. Additional Questions
 
-* **What satisfied you the most during the internship?**  
-  Being empowered to **build and deploy a real production application on AWS Cloud**, managing everything from S3 Static Web Hosting to Dockerized EC2 containerization and security configuration.
+* **What did you find most satisfying during your internship?**  
+The most satisfying part was applying what I learned to a real-world project and seeing the system gradually take shape and work on AWS.
 
-* **Would you recommend the FCAJ program to your peers?**  
-  **Absolutely!** FCAJ serves as a bridge enabling students to master cutting-edge AWS Cloud technologies under expert mentorship.
+* **What do you think the company **should improve** for future interns?**  
+Overall, I was satisfied with the internship program and the support provided. I do not have any major suggestions for improvement at this time.
+
+* **If recommending to a friend, would you **suggest they intern here**? Why or why not?**  
+Yes. I would recommend this internship to my friends because the program provides a supportive learning environment and good opportunities to develop practical AWS and cloud computing skills.
+
 
 ---
 
 ### 3. Recommendations & Appreciation
 
-- **Recommendations:** For future cohorts, incorporating hands-on workshops on Infrastructure as Code tools (such as AWS CDK or Terraform) would be very beneficial.
-- **Acknowledgements:** Sincere gratitude to the AWS First Cloud AI Journey organizers, mentors, and HCMUT faculty for providing this opportunity!

@@ -1,6 +1,6 @@
 ---
 title: "Proposal"
-date: 2026-07-24
+date: 2026-07-30
 weight: 2
 chapter: false
 pre: " <b> 2. </b> "
@@ -90,9 +90,9 @@ Estimated monthly operational expenses on AWS (ap-southeast-2 region):
 ### 8. Expected Outcomes & Project Value
 
 * **Technical Achievements:**
-  - Successfully built and deployed a 100% production-ready cloud portal on AWS infrastructure.
+  - The project aims to build and deploy a production-ready cloud portal on AWS infrastructure.
   - Decoupled Static Frontend (S3) and Compute Backend (EC2 Docker) for maximum performance and cost optimization.
-  - Ensured enterprise-grade biometric data security and session management.
+  - The system aims to implement secure biometric data storage and authentication mechanisms.
 
 * **Long-Term Value:**
   - Complete Workshop documentation serving as a high-quality reference for future AWS learners and FCAJ interns.

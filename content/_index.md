@@ -1,6 +1,6 @@
 ---
 title: "Internship Report"
-date: 2026-07-24
+date: 2026-07-30
 weight: 1
 chapter: false
 ---
@@ -8,11 +8,11 @@ chapter: false
 # Internship Report
 
 ### Student Information:
-&emsp; **Full Name:** Nguyen Hoang Nhat Thien
+&emsp; **Full Name:** Nguyen Duc Tien
 
-&emsp; **Phone Number:** 0963877559 
+&emsp; **Phone Number:** 0934406779
 
-&emsp; **Email:** thien.nguyenhn@hcmut.edu.vn
+&emsp; **Email:** tien.nguyenduc@hcmut.edu.vn
 
 &emsp; **University:** Ho Chi Minh City University of Technology (HCMUT - VNU-HCM)
 
@@ -26,7 +26,9 @@ chapter: false
 
 &emsp; **Internship Duration:** From 08/06/2026 to 31/07/2026
 
-![Profile picture](/images/avatar.png)
+<div style="text-align: center;">
+    <img src="/images/avatar.png" alt="Profile picture" style="max-width: 300px; height: auto; border-radius: 50%;">
+</div>
 
 ### Report Content
 

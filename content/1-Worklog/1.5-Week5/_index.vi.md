@@ -1,25 +1,30 @@
 ---
-title: "Worklog Tuần 5"
-date: 2026-07-10
+
+title: "Nhật ký công việc Tuần 5"
+date: 2026-07-11
 weight: 5
 chapter: false
 pre: " <b> 1.5. </b> "
----
+----------------------
 
-### Mục tiêu tuần 5:
-* Tích hợp nhật ký ứng dụng (Application Logging) với dịch vụ AWS CloudWatch Logs.
-* Cấu hình theo dõi chỉ số (Metric Filters & Alarms) cho EC2 và ứng dụng Backend.
+### Mục tiêu Tuần 5:
 
-### Các công việc triển khai trong tuần này:
-| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành |
-| --- | --- | --- | --- |
-| 2 | - Tìm hiểu dịch vụ AWS CloudWatch Logs & SDK `watchtower` | 06/07/2026 | 06/07/2026 |
-| 3 | - Thêm `watchtower` vào `backend/requirements.txt` và cập nhật `backend/services/logging_service.py` | 07/07/2026 | 08/07/2026 |
-| 4 | - Cấu hình gửi log sự kiện nhận diện Face ID, đăng nhập, lỗi DB về CloudWatch Log Group `/fav-web/backend` | 09/07/2026 | 10/07/2026 |
-| 5 | - Khởi tạo CloudWatch Alarm cảnh báo khi mức sử dụng CPU của EC2 vượt ngưỡng 80% | 11/07/2026 | 12/07/2026 |
+* Tích hợp hệ thống ghi log của ứng dụng với AWS CloudWatch Logs.
+* Thiết lập cơ chế giám sát, Metric Filter và Alarm cho EC2 Instance và các dịch vụ Backend.
 
-### Kết quả đạt được tuần 5:
-* Đã tự động gửi log thực thi ứng dụng từ EC2 lên AWS CloudWatch Logs.
-* Thiết lập hệ thống giám sát tải CPU và theo dõi sự cố vận hành hiệu quả. 
+### Nội dung công việc:
 
-![AWS CloudWatch Logging & Monitoring](/images/cloudwatch.png)
+| Ngày  | Nội dung thực hiện                                                                                                                                                         | Ngày bắt đầu | Ngày hoàn thành |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- |
+| Thứ 2 | - Tìm hiểu về dịch vụ AWS CloudWatch Logs và vai trò của nó trong việc giám sát ứng dụng <br> - Nghiên cứu cách sử dụng thư viện logging `watchtower` dành cho Python      | 06/07/2026   | 06/07/2026      |
+| Thứ 3 | - Bổ sung `watchtower` vào `backend/requirements.txt` <br> - Cập nhật cơ chế ghi log trong `backend/services/logging_service.py`                                           | 07/07/2026   | 08/07/2026      |
+| Thứ 5 | - Cấu hình để log của ứng dụng được gửi đến CloudWatch Log Group `/fav-web/backend` <br> - Theo dõi các sự kiện Face ID, hoạt động đăng nhập và lỗi liên quan đến Database | 09/07/2026   | 10/07/2026      |
+| Thứ 7 | - Tạo CloudWatch Alarm để giám sát EC2 Instance <br> - Thiết lập Alarm kích hoạt khi mức sử dụng CPU vượt quá 80%                                                          | 11/07/2026   | 12/07/2026      |
+
+### Kết quả đạt được trong Tuần 5:
+
+* Log của ứng dụng được tự động thu thập từ Backend trên EC2 và gửi lên AWS CloudWatch.
+* Hoàn thành cấu hình giám sát mức sử dụng CPU của EC2 và thiết lập CloudWatch Alarm tương ứng.
+
+
+
