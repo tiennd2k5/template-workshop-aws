@@ -1,5 +1,5 @@
 ---
-title: "Event 3: FCAJ x Agentic AI Build Week"
+title: "Event 3: AWS FCAJ Agent Forge - Deepdive"
 date: 2026-07-30
 weight: 2
 chapter: false
