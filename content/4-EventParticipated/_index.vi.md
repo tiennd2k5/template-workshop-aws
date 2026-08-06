@@ -42,3 +42,19 @@ Trong thời gian tham gia chương trình thực tập **AWS First Cloud AI Jou
 &emsp;**Bài học chính:** Tìm hiểu cách các đội thi ứng dụng Agentic AI, các dịch vụ AWS và kiến trúc đa tác tử để giải quyết các vấn đề thực tế trong doanh nghiệp, qua đó hiểu thêm về thiết kế AI Agent, tích hợp công cụ, tự động hóa và phát triển các giải pháp Cloud trong thực tế.
 
 ---
+
+### 3. [Event 3: AWS FCAJ Agent Forge - Deepdive (01/08/2026)](4.3-Event3/)
+&emsp;**Tên sự kiện:** AWS FCAJ Agent Forge - Deepdive
+
+&emsp;**Thời gian:** 01/08/2026
+
+&emsp;**Vai trò:** Người tham dự
+
+&emsp;**Nội dung chính:**
+- **Giới thiệu về Agentic AI:** Khái niệm AI Agent, các mức độ tự chủ và những yêu cầu để triển khai Agent trong môi trường thực tế.
+- **Amazon Bedrock AgentCore Runtime:** Môi trường thực thi serverless cho AI Agent với khả năng mở rộng, cách ly phiên làm việc và triển khai an toàn.
+- **Amazon Bedrock AgentCore Identity:** Cơ chế xác thực, phân quyền, Workload Access Token (WAT) và quản lý định danh cho AI Agent.
+- **Amazon Bedrock AgentCore Gateway:** Kết nối AI Agent với API, MCP Server và các công cụ bên ngoài thông qua một cổng giao tiếp thống nhất.
+
+&emsp;**Kiến thức tiếp thu:** Hiểu rõ hơn về kiến trúc của một hệ thống Agentic AI trong môi trường doanh nghiệp, bao gồm cách triển khai Agent an toàn, quản lý định danh, kết nối công cụ bên ngoài và vai trò của Amazon Bedrock AgentCore trong việc xây dựng các ứng dụng AI Agent sẵn sàng cho môi trường production.
+---

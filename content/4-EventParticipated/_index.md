@@ -42,3 +42,20 @@ During the AWS First Cloud AI Journey (FCAJ) internship program, I had the oppor
 &emsp;**Key Takeaways:** Learned how different teams applied Agentic AI, AWS services, and multi-agent architectures to solve practical business problems, gaining insights into AI Agent design, tool integration, automation, and real-world cloud solution development.
 
 ---
+
+
+### 3. [Event 3: AWS FCAJ Agent Forge - Deepdive (01/08/2026)](4.3-Event3/)
+&emsp;**Event Name:** AWS FCAJ Agent Forge - Deepdive
+
+&emsp;**Date & Time:** August 1, 2026
+
+&emsp;**Role:** Attendee
+
+&emsp;**Main Activities & Presentation Topics:**
+- **Introduction to Agentic AI:** Understanding AI agents, autonomy levels, and production-ready agentic systems.
+- **Amazon Bedrock AgentCore Runtime:** Secure serverless runtime, session isolation, scalability, and deployment of AI agents.
+- **Amazon Bedrock AgentCore Identity:** Authentication, authorization, Workload Access Token (WAT), and secure identity management.
+- **Amazon Bedrock AgentCore Gateway:** Connecting AI agents with APIs, MCP servers, external tools, and enterprise services through a unified gateway.
+
+&emsp;**Key Takeaways:** Gained a comprehensive understanding of production-ready Agentic AI architecture, including secure agent execution, identity management, tool connectivity, and how Amazon Bedrock AgentCore simplifies deploying and operating enterprise AI agents.
+---
